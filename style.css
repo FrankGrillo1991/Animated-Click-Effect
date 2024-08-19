@@ -50,5 +50,18 @@ body {
     box-sizing: border-box;
 }
 
+.heading-name {
+    color: rgb(10, 83, 10);
+    animation: namegfg 2s ease-in-out both;
+}
 
+#pid {
+    font-weight: 600;
+    line-height: 50px;
+    color: #0f4983;
+}
+
+.animationjs {
+    animation: ani 2s ease-in-out both;
+}
 
