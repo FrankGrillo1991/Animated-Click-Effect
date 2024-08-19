@@ -39,3 +39,16 @@ body {
     color: antiquewhite;
 }
 
+/* Style for the heading paragraph and button */
+.content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 12px;
+    margin: 8px;
+    box-sizing: border-box;
+}
+
+
+
