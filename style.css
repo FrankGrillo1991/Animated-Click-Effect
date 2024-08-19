@@ -12,3 +12,13 @@ body {
     align-items: center;
     height: 729px;
 }
+
+/* Style for the card and border */
+.card {
+    height: 280px;
+    width: 541px;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(50deg, #accceb 0%, #c4a6e0 100%);
+    box-shadow: rgba(25, 24, 27, 0.75) 0px 15px 20px;
+    border-radius: 10px;
+}
