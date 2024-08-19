@@ -27,3 +27,15 @@ body {
     display: flex;
     gap: 10px;
 }
+
+/* Style for the button */
+.btn {
+    padding: 10px;
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    font-size: 15px;
+    background-color: rgb(106, 130, 211);
+    color: antiquewhite;
+}
+
