@@ -61,6 +61,7 @@ body {
     color: #0f4983;
 }
 
+/* For animation */
 .animationjs {
     animation: ani 2s ease-in-out both;
 }
