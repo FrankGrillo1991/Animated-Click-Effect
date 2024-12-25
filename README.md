@@ -1,0 +1,1 @@
+Animated Click Effect developed with HTML, CSS & JavaScript
